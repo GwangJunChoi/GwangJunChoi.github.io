@@ -9,3 +9,4 @@
 ## FE
 * [web ui best](https://www.awwwards.com/)
 * [typewriter Effect](https://css-tricks.com/snippets/css/typewriter-effect/)
+* [NHN toast fe-guide](https://ui.toast.com/fe-guide)
