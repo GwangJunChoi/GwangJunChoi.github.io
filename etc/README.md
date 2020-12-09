@@ -7,5 +7,5 @@
 * [디비스키마 생성 웹사이트](https://www.erdcloud.com/)
 
 ## FE
-*[web ui best](https://www.awwwards.com/)
-*[typewriter Effect](https://css-tricks.com/snippets/css/typewriter-effect/)
+* [web ui best](https://www.awwwards.com/)
+* [typewriter Effect](https://css-tricks.com/snippets/css/typewriter-effect/)
