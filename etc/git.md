@@ -3,7 +3,7 @@
 ```
 git reset --hard ORIG_HEAD
 ```
-[rest blog contents](http://blog.weirdx.io/post/3111)
+[reset blog contents](http://blog.weirdx.io/post/3111)
 >##### global 변수 미설정 commit
 ```
 git -c user.name='gwangjunchoi' -c user.email='namsookill@gmail.com' commit -m ""
