@@ -1,5 +1,5 @@
 #### git 명령어 정리
->##### 바로 이전의 커밋으로 이력 변경
+>##### OROGIN CURRENT HEAD 커밋으로 이력 hard 변경
 ```
 git reset --hard ORIG_HEAD
 ```
