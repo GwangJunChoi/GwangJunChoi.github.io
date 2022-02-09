@@ -4,7 +4,7 @@
 >##### Nullish coalescing operator
 ```
 function print(foo) {
-  const message = text || 'bar';
+  const message = foo || 'bar';
   console.log(message);
 }
 
