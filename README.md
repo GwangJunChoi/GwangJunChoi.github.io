@@ -29,6 +29,25 @@
 - 규칙 7: 3개 이상의 인스턴스 변수를 가진 클래스를 쓰지 않는다.
 - 규칙 9: 게터/세터/프로퍼티를 쓰지 않는다.
 
+
+# 책임주도설계
+- 프로그래밍의 팩임을 갖고 책임을 수행할 적절한 객체르 찾아 책임을 할당하는 방식으로 협력을 설계하는 방법
+>##### 책임이란 ?
+- 객체이 의해 정의되는 응집도 있는 행위의 집합으로,
+- 객체가 유지해야 하는 정보와 수행할 수 있는 행동 에 대해 개략적으로 서술한 문장이다.
+- 객체가 '무엇을 알고 있는가'와 ' 무엇을 할 수 있는가' 로 구성된다.
+
+>##### 하는것
+- 객체를 생성하거나 계산을 수행하는 등의 스스로 하는 것
+- 다른 객체의 행동을 시작시키는 것
+- 다른 객체의 활동을 제어하고 저절하는 것
+
+>##### 아는것 
+- 사적인 정보에 관해 아는 것
+- 관련된 객체에 대해 아는 것
+- 자신이 유도하거나 계싼할 수 있는 것에 관해 아는 것
+
+ 
  >##### PR 피드백 관련 정리
  - [AssertJ](https://www.baeldung.com/introduction-to-assertj)
  - [AssertJ Exception Assertions](https://www.baeldung.com/assertj-exception-assertion)
@@ -45,4 +64,6 @@
  - [@NullAndEmptySource](https://www.baeldung.com/junit-5)
  
  - [enum](https://woowabros.github.io/tools/2017/07/10/java-enum-uses.html)
- - [enum cache]( https://pjh3749.tistory.com/279) 
+ - [enum cache]( https://pjh3749.tistory.com/279)
+ 
+ - [optional](https://www.baeldung.com/java-optional) 
